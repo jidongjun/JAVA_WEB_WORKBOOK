@@ -1,4 +1,4 @@
-package org.zerock.b01.domain;
+package org.zerock.web_workbook_b01.domain;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
